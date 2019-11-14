@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/nrshree/DevOps_Learning/_apis/build/status/nrprasad19.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/nrshree/DevOps_Learning/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
